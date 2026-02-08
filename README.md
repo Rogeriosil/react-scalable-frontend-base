@@ -57,7 +57,5 @@ Este repositório representa uma *estrutura base profissional*, podendo ser adap
 ---
 
 ## 👨‍💻 Autor
-Rogério De Oliveira Da Silva
-
-Projeto desenvolvido por *[SEU NOME PROFISSIONAL AQUI]*  
+Projeto desenvolvido por *Rogério De Oliveira Da Silva*  
 Front-end Developer
